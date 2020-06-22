@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587365386 source:f:\c++program\edystapr\challenge8\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

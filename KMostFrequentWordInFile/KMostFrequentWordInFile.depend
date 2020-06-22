@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589994277 source:f:\c++program\edystapr\kmostfrequentwordinfile\main.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

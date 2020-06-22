@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587277070 source:f:\c++program\edystapr\challenge7\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
